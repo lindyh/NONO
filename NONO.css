@@ -46,7 +46,7 @@ body {
 #header {
     font-family: 'EB Garamond', serif;
     /* to include a site logo, use 'background-image:' here */
-    background-image: url("../pictures/NONObanner.png")
+    background-image: url("NONObanner.png");
     font-size: 400%;
     color: #121313;
     background-color: #fff;
@@ -90,7 +90,7 @@ ul.a1-nav li {
     float: left;
 }
 ul.a1-nav li a {
-    color: #002c57;
+    color: #fff;
     background-color: #fff;
     padding: 2ex;
     margin: 0;
