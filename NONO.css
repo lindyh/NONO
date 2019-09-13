@@ -46,10 +46,10 @@ body {
 #header {
     font-family: 'EB Garamond', serif;
     /* to include a site logo, use 'background-image:' here */
-    background-image: url(../pictures/NONObanner.png) 
+    background-image: url("../pictures/NONObanner.png")
     font-size: 400%;
-    color: #fff;
-    background-color: #002c58;
+    color: #121313;
+    background-color: #fff;
     text-shadow: 2px 2px #a89720;
     padding: 0.5em 1em;
     text-align: center;
