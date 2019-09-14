@@ -48,7 +48,7 @@ body {
     /* to include a site logo, use 'background-image:' here */
     background-image: url("NONObanner.png");
     background-size: contain;
-    background-position: center center; 
+    background-position: center center;
     /*font-size: 400%;*/
     /*color: #121313;*/
     /*background-color: #fff;*/
@@ -92,7 +92,7 @@ ul.a1-nav li {
     float: left;
 }
 ul.a1-nav li a {
-    color: #fff;
+    color: #121313;
     background-color: #fff;
     padding: 2ex;
     margin: 0;
