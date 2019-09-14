@@ -46,6 +46,7 @@ body {
 #header {
     /*font-family: 'EB Garamond', serif;*/
     /* to include a site logo, use 'background-image:' here */
+    height: 250px;
     background-image: url("NONObanner.png");
     background-size: contain;
     background-position: center center;
@@ -75,7 +76,7 @@ body {
 #footer a {
     color: white;
     font-weight: bold;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
 }
 
 /* Navigation tabs - don't mess with these unless you know what you're
