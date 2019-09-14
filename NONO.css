@@ -9,13 +9,15 @@
  *      #content (main page content)
  *      #welcome_header (login/logout buttons)
  *  #footer    (Audience1st footer)
+ * default css file: https://cdn.jsdelivr.net/gh/armandofox/stylesheets@master/nono-berkeley/default.css
  */
 
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700&display=swap');
 html {
     font-size: 11pt;
-    font-family: Helvetica, Arial, sans-serif;
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    font-family: 'Montserrat', sans-serif
     color: #121313;
 }
 body {
