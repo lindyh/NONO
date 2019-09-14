@@ -65,12 +65,12 @@ body {
 }
 
 #content {
-    padding: 0 4px;
+    padding: 0 2px;
 }
 
 #footer {
     margin: 0;
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 #footer a {
