@@ -44,17 +44,19 @@ body {
 }
 
 #header {
-    font-family: 'EB Garamond', serif;
+    /*font-family: 'EB Garamond', serif;*/
     /* to include a site logo, use 'background-image:' here */
     background-image: url("NONObanner.png");
-    font-size: 400%;
-    color: #121313;
-    background-color: #fff;
-    text-shadow: 2px 2px #a89720;
+    background-size: contain;
+    background-position: center center; 
+    /*font-size: 400%;*/
+    /*color: #121313;*/
+    /*background-color: #fff;*/
+    /*text-shadow: 2px 2px #a89720;*/
     padding: 0.5em 1em;
-    text-align: center;
-    font-weight: bold;
-    font-style: italic;
+    /*text-align: center;*/
+    /*font-weight: bold;*/
+    /*font-style: italic;*/
     width: 100%;
     display: inline-block;
     text-align: left;
