@@ -109,6 +109,10 @@ ul.a1-nav li a:hover {
     color: #ccc;
 }
 
+#event_types .btn {
+   display: none;
+}
+
 /* override nav tab color when tab selected */
 body#store_index li#t_store_index a,
 body#customers_welcome li#t_customers_welcome a,
