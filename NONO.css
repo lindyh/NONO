@@ -115,8 +115,8 @@ ul.a1-nav li a:hover {
 
 /*lindy chages*/
 
-#text-center py-3 {
-  content: "Box Office"
+p.py-4{
+  display: none; 
 }
 
 /* override nav tab color when tab selected */
