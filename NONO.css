@@ -119,7 +119,7 @@ p.py-4{
   display: none;
 }
 
-#regularShow_BannerNonSubscriber {
+#regularShow_BannerNonSubscriber.storeBanner {
   padding 20px; 
 }
 
