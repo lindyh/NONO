@@ -66,12 +66,9 @@ body {
     text-align: left;
 }
 
-#store {
-  padding: 20px
-}
 
 #content {
-    padding: 20px;
+    padding: 0px 4px;
 }
 
 #footer {
@@ -121,6 +118,10 @@ ul.a1-nav li a:hover {
 
 p.py-4{
   display: none;
+}
+
+#regularShow_BannerNonSubscriber.storeBanner {
+  padding: 20px;
 }
 
 /* override nav tab color when tab selected */
