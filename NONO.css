@@ -26,13 +26,13 @@ body {
 
 #outer_wrapper {
     /*line-height: 1;*/
-    background: white;
+    background: black;
     width: 960px;
     margin: 0 auto;
     height: 100%; }
 
 #inner_wrapper {
-    background-color: white;
+    background-color: black;
     width: 960px;
     /* change if want to do left sidebar */
     margin: 0;
