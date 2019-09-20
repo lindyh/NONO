@@ -116,7 +116,11 @@ ul.a1-nav li a:hover {
 /*lindy chages*/
 
 p.py-4{
-  display: none; 
+  display: none;
+}
+
+#regularShow_BannerNonSubscriber {
+  padding 20px; 
 }
 
 /* override nav tab color when tab selected */
