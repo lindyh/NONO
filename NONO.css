@@ -32,7 +32,7 @@ body {
     height: 100%; }
 
 #inner_wrapper {
-    background-color: black;
+    background-color: white;
     width: 960px;
     /* change if want to do left sidebar */
     margin: 0;
@@ -48,7 +48,7 @@ body {
 #header {
     /*font-family: 'EB Garamond', serif;*/
     /* to include a site logo, use 'background-image:' here */
-    height: 150px;
+    height: 300px;
     background-image: url("NONOmain.png");
     background-size: contain;
     background-position: center center;
