@@ -125,7 +125,11 @@ p.py-4{
 }
 
 #enter_promo_code {
-  display: none; 
+  display: none;
+}
+
+#show_description.explanation {
+  padding: 20px
 }
 
 /* override nav tab color when tab selected */
