@@ -113,6 +113,12 @@ ul.a1-nav li a:hover {
    display: none;
 }
 
+/*lindy chages*/
+
+#text-center py-3 {
+  content: "Box Office"
+}
+
 /* override nav tab color when tab selected */
 body#store_index li#t_store_index a,
 body#customers_welcome li#t_customers_welcome a,
